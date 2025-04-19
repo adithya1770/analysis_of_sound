@@ -82,6 +82,6 @@
     <h4>In Conclusion, I have proved that speed of sound is 342.99m/s ~ 343m/s under standard room temparature that is 26 degree celcius(minor variations)
         using an HC-SR04 ultrasonic sensor and Raspberry Pi Pico.
     </h4>
-    <p>Final Equation</p>
+    <h2>Final Equation</h2>
     <img src="./assets/eqn2.png">
 </h3>
